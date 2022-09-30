@@ -9,11 +9,18 @@
 **请下载 release 下的软件安装包。源代码以开源，可按需进行代码审查。**
 
 1. 第一次下载后，请将 `VP.exe` 所在的文件夹路径添加至系统环境变量path中。
+
 2. 第一次使用时，请打开配置文件 `confg.txt` 进行配置。
    如果配置文件不存在，可以运行程序重新生成。
+
 3. 打开待视频所在的文件夹，使用cmd 输入 `vp -r`。
+
+   <img src="D:\Github\Repositories\Mini-Video-Processor\README\image-20220930100719503.png" alt="image-20220930100719503" style="zoom:50%;" />
+
    注意：第一次处理视频时需要重命名视频文件。命令行参数 `-r` 可以打开重命名功能。
               之后同一文件夹下无需再对视频文件进行重命名。直接使用 `vp` 即可。
+   **警告：重命名后所有视频将以递增数字作为名称！若视频名称存储了相关信息，请做好备份！**
+
 4. 配置文件的修改需要遵循相关语法！
 
 
@@ -22,21 +29,30 @@
 
 1. 在视频播放界面
 
+   <img src="D:\Github\Repositories\Mini-Video-Processor\README\image-20220930100859947.png" alt="image-20220930100859947" style="zoom:50%;" />
+
    - 使用空格键来切换 播放/暂停 状态。
    - 在 播放/暂停 状态下都可以通过 左右方向键 调整播放进度。
    - 按 `Q` 退出 VideoProcessor。
    - 按 `J` 跳过当前视频，以处理下一个视频。
    - 在暂停状态下，按 `Enter` 进入视频编辑界面。
 
-2. 在视频编辑界面
+3. 在视频编辑界面
 
+   <img src="D:\Github\Repositories\Mini-Video-Processor\README\image-20220930101016692.png" alt="image-20220930101016692" style="zoom:50%;" />
+   
    - 进入视频编辑界面后，窗口四周会出现蓝色剪辑框。
      使用鼠标重新选择剪辑框位置，只截取有用部分导入至新视频中。
+   
+   <img src="D:\Github\Repositories\Mini-Video-Processor\README\image-20220930101102444.png" alt="image-20220930101102444" style="zoom:50%;" />
+   
    - 使用空格键来切换 播放/暂停 状态。
    - 如果视频截取段的起始帧不合适，使用 `ESC` 退出视频编辑界面，回到视频播放界面重新选择。
    - 如果发现视频不合要求，按 `J` 跳过当前视频，以处理下一个视频。
    - 使用 上下方向键 来调整抽帧方式。
    - 使用 `Enter` 确定剪辑，此时 控制台 会弹出视频分类选择，需要切换至控制台输入类别序号以确定。
+   
+   <img src="D:\Github\Repositories\Mini-Video-Processor\README\image-20220930101219060.png" alt="image-20220930101219060" style="zoom:50%;" />
    
    
 
@@ -52,7 +68,7 @@
 
 注意，参数以标识符 `$` 开始，以 `:` 结束，并且**`$` 标号后有空格，`:` 前无空格，`-` 后有空格！**
 
-
+<img src="D:\Github\Repositories\Mini-Video-Processor\README\image-20220930101326818.png" alt="image-20220930101326818" style="zoom:50%;" />
 
 # 常见问题
 
