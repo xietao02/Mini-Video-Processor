@@ -1,0 +1,13 @@
+{
+  "FPS": 30, // Video player refresh rate
+  "Frames skipped per fast-forward": 30,
+  "new video frames": 70,
+
+  // Up to nine category options
+  "Categories": [
+    "cat_running",
+    "cat_walking",
+    "cat_eating",
+    "cat_jumping"
+  ]
+}

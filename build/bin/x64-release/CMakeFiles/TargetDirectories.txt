@@ -1,0 +1,3 @@
+D:/Projects/Visual Studio/Mini-Video-Processor/build/bin/x64-release/CMakeFiles/mvp.dir
+D:/Projects/Visual Studio/Mini-Video-Processor/build/bin/x64-release/CMakeFiles/edit_cache.dir
+D:/Projects/Visual Studio/Mini-Video-Processor/build/bin/x64-release/CMakeFiles/rebuild_cache.dir
