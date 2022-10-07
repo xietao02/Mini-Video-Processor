@@ -1,2 +1,8 @@
-﻿  mvp.cpp
+﻿  main.cpp
+  mvp.cpp
+  util.cpp
+D:\Github\Repositories\Mini-Video-Processor\src\util.cpp(29,16): warning C4838: 从“unsigned int”转换到“SHORT”需要收缩转换
+D:\Github\Repositories\Mini-Video-Processor\src\util.cpp(29,19): warning C4838: 从“unsigned int”转换到“SHORT”需要收缩转换
+  正在生成代码...
+  xgetopt.c
   Mini-Video-Processor.vcxproj -> D:\Github\Repositories\Mini-Video-Processor\x64\Debug\Mini-Video-Processor.exe

@@ -15,27 +15,27 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="src\main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="mvp.cpp">
+    <ClCompile Include="src\mvp.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="util.cpp">
+    <ClCompile Include="src\util.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="xgetopt.c">
+    <ClCompile Include="src\xgetopt.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="mvp.h">
+    <ClInclude Include="src\mvp.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="util.h">
+    <ClInclude Include="src\util.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="xgetopt.h">
+    <ClInclude Include="src\xgetopt.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
