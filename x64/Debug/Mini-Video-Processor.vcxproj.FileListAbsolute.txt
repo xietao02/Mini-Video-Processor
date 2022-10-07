@@ -1,3 +1,0 @@
-D:\Github\Repositories\Mini-Video-Processor\x64\Debug\Mini-Video-Processor.vcxproj.CopyComplete
-D:\Github\Repositories\Mini-Video-Processor\x64\Debug\Mini-Video-Processor.exe
-D:\Github\Repositories\Mini-Video-Processor\x64\Debug\jsoncpp.dll
