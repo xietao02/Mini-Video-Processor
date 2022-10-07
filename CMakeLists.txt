@@ -1,4 +1,4 @@
-﻿# project name
+﻿ # project name
 project("Mini-Video-Processor")
 
 # requirement of cmake version

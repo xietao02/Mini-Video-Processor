@@ -1,6 +1,0 @@
-# ninja log v5
-11	326	6867720934816505	CMakeFiles/mvp.dir/src/xgetopt.c.obj	79002d0aaca95152
-16	567	6867720937249974	CMakeFiles/mvp.dir/src/util.cpp.obj	ffe1d090cd00ea50
-1	1484	6867720946409954	CMakeFiles/mvp.dir/src/main.cpp.obj	d34b8eb6fb9af2e2
-6	2349	6867720955028304	CMakeFiles/mvp.dir/src/mvp.cpp.obj	be43d196204e27b4
-2349	2590	6867720957472108	../../../dist/bin/release/mvp.exe	25e9e1f2b6c5eb70
